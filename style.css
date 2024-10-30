@@ -1,7 +1,8 @@
-header{
+header {
   background: #62306D;
 }
-#bigCircle{
+
+#bigCircle {
   position: absolute;
   width: 200px;
   height: 200px;
@@ -10,7 +11,8 @@ header{
   top: 50px;
   border-radius: 50%;
 }
-#orangePart{
+
+#orangePart {
   position: absolute;
   width: 100px;
   height: 100px;
@@ -19,7 +21,8 @@ header{
   top: 50px;
   border-top-left-radius: 100%;
 }
-#littleCircle{
+
+#littleCircle {
   position: absolute;
   width: 120px;
   height: 120px;
@@ -28,13 +31,20 @@ header{
   top: 90px;
   border-radius: 50%;
 }
-h1{
+
+h1 {
   color: #F7EC7D;
 }
-h2{
+
+h2 {
   color: #F7EC7D;
 }
-footer{
+
+footer {
   background: #62306D;
   color: #F7EC7D;
+}
+
+main{
+  background-image: url(./img/donuts.png);
 }
